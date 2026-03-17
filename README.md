@@ -48,5 +48,7 @@ source env/bin/activate
 # Execute o script
 python hello.py
 
+```
 
 ### Este é um projeto em constante evolução para fins educacionais.
+
