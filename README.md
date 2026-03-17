@@ -26,7 +26,7 @@ Configurar o ambiente básico de desenvolvimento, realizar a integração com fe
     * Criação do script `hello.py` seguindo boas práticas de metadados.
     * Inclusão de um Pinguim (Tux) em ASCII Art para celebrar a cultura Linux/Open Source.
 4.  **Documentação:** Estruturação deste arquivo README para acompanhamento do progresso.
-
+5.  **Conta Dockerhub:** https://hub.docker.com/u/jessicaapbueno
 ---
 
 ## 🛠️ Tecnologias Utilizadas (Até o momento)
